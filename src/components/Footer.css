@@ -1,0 +1,13 @@
+
+#footer {
+    background: url(https://earpearp.cafe24.com/2022_web_img/web/footer_bg.png)no-repeat top center;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    margin-top: 5rem;
+}
+#footer .inner {
+    height: 350px;
+    padding-top: 50px;
+}
+
